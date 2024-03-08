@@ -39,14 +39,11 @@
 <h2> Samples from my projects </h2>
 
 ### Click Flex
+![Click Flex App](https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.png | width="155" height="336")
 
-<!-- ![Click Flex App Screenshot](https://github.com/Manuel36791/Manuel36791/blob/main/apps_screenshots/click_flex_screenshot.png) -->
+<!-- <p><a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
 
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/apps_screenshots/click_flex_screenshot.png" width="155" height="336"/>
-
-<!-- <p><a href="https://play.google.com/store/apps/details?id=com.helpoo.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/helpoo/id1627316561" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
-
-<p><a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
 ![](https://github.com/Manuel36791/Manuel36791/profile-3d-contrib/profile-green.svg)
