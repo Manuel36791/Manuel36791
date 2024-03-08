@@ -46,9 +46,6 @@
 
 <p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-
-![](https://github.com/Manuel36791/Manuel36791/profile-3d-contrib/profile-green.svg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel36791&label=Profile%20views&color=0e75b6&style=flat" alt="manuel36791" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791" alt="manuel36791" /></a> </p>
