@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer & Flutter Developer</h3>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%#237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Manuel;He/his;Egyptian+Flutter+Dev;Games+Lover;function+findQuestion(42)" alt="Egyptian flutter developer, Games lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Manuel;He/his;Egyptian+Flutter+Dev;Games+Lover" alt="Egyptian flutter developer, Games lover"></a>
 </div>
 
 <!-- - Software Engineer
