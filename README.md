@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="40" height="40" />
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Manuel;He/his;Software+Engineer+Egyptian+Flutter+Dev;Games+Lover" alt="Egyptian flutter developer, Games lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Manuel;He/his;Software+Engineer;Flutter+Dev;Games+Lover" alt="Egyptian flutter developer, Games lover"></a>
 </div>
 
 <!-- - Software Engineer
@@ -45,8 +45,6 @@
 <!-- <p><a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
 
 <p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel36791&label=Profile%20views&color=0e75b6&style=flat" alt="manuel36791" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791" alt="manuel36791" /></a> </p>
 
