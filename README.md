@@ -10,7 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:manuelvictor36791@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/manuelvictor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:manuelvictor36791@gmail.com">
+<img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=manuelvictor36791@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail"/>
+</a>
 <a href="https://linkedin.com/in/manuelvictor">
 <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/manuelvictor&color=0A66C2&style=for-the-badge&logo=linkedin"/>
 </a>
