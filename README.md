@@ -47,6 +47,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791" alt="manuel36791" /></a> </p>
 
+<a href="https://app.daily.dev/manuel36791"><img src="https://api.daily.dev/devcards/v2/PCPBXLG7qgSKLQsNGAhI9.png?r=ckh&type=default" width="356" alt="Manuel Victor's Dev Card"/></a>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuel36791&show_icons=true&locale=en&layout=compact" alt="manuel36791" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&locale=en" alt="manuel36791" /></p>
