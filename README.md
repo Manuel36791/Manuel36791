@@ -58,8 +58,8 @@
 <a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuel36791&show_icons=true&&theme=github_dark&locale=en&layout=compact" alt="manuel36791" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuel36791&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="manuel36791" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&locale=en" alt="manuel36791" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&theme=github_dark&locale=en" alt="manuel36791" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuel36791&" alt="manuel36791" /></p>
