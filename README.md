@@ -6,10 +6,10 @@
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Manuel36791/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/Manuel36791/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/Manuel36791/Manuel36791?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 </div>
 <!-- - Software Engineer
 - Flutter Developer
