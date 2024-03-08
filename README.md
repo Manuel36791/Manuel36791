@@ -4,29 +4,13 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Manuel;He/his;Software+Engineer+Egyptian+Flutter+Dev;Games+Lover" alt="Egyptian flutter developer, Games lover"></a>
 </div>
 
-<h2>ℹ️ Project info</h2>
-<div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/Manuel36791/Manuel36791?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-
-</div>
 <!-- - Software Engineer
 - Flutter Developer
 - More than 1 project -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="mailto:manuelvictor36791@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/manuelvictor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-<!-- </p> <a href="https://app.daily.dev/Manuel36791"><img src="https://api.daily.dev/devcards/713dc2e1ba774e0e9eb6152553072a09.png?r=nbq" width="200" alt="Manuel Victor's Dev Card"/></a>
-
-<a href="https://app.daily.dev/Manuel36791"><img src="https://github.com/Manuel36791/Manuel36791/blob/main/devcard.svg" width="200" alt="Manuel Victors's Dev Card"/></a> -->
-
-
-
 </p>
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
@@ -37,12 +21,17 @@
   </a>
 </p><br>
 
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Manuel36791/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/Manuel36791/Manuel36791?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+</div>
 
-![snake gif](https://github.com/Manuel36791/Manuel36791/blob/output/github-snake-dark.svg)
+![Snake Animation](https://github.com/Manuel36791/Manuel36791/blob/output/github-snake-dark.svg)
 
 <h2> Samples from my projects </h2>
-
-
 
 ### Click Flex
 
@@ -55,15 +44,11 @@
 <p><a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
-![Snake animation](https://github.com/Manuel36791/Manuel36791/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://github.com/Manuel36791/Manuel36791/profile-3d-contrib/profile-green.svg)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel36791&label=Profile%20views&color=0e75b6&style=flat" alt="manuel36791" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel36791&label=Profile%20views&color=0e75b6&style=flat" alt="manuel36791" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791" alt="manuel36791" /></a> </p>
-
-<!-- <a href="https://app.daily.dev/manuel36791"><img src="https://api.daily.dev/devcards/v2/PCPBXLG7qgSKLQsNGAhI9.png?r=ckh&type=default" width="356" alt="Manuel Victor's Dev Card"/></a> -->
 
 <a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a>
 
