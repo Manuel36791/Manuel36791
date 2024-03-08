@@ -4,6 +4,13 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Manuel;He/his;Software+Engineer+Egyptian+Flutter+Dev;Games+Lover" alt="Egyptian flutter developer, Games lover"></a>
 </div>
 
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Manuel36791?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Manuel36791/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/Manuel36791/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+</div>
 <!-- - Software Engineer
 - Flutter Developer
 - More than 1 project -->
