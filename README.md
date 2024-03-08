@@ -39,7 +39,8 @@
 <h2> Samples from my projects </h2>
 
 ### Click Flex
-![Click Flex App](https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.png | width="155" height="336")
+
+<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.png" width="155" height="336"/>
 
 <!-- <p><a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
 
