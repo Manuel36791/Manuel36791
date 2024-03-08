@@ -26,7 +26,12 @@
   </a>
 </p><br>
 
+
+![snake gif](https://github.com/Manuel36791/Manuel36791/blob/output/github-snake-dark.svg)
+
 <h2> Samples from my projects </h2>
+
+
 
 ### Click Flex
 
