@@ -48,7 +48,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&column=-1&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&column=-1&theme=onestar" alt="manuel36791" /></a> </p>
 
-<div class="Inline Block">
-    <a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a> 
+<span> 
+<a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a>  
+</span>
+<span> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&theme=github_dark&locale=en" alt="manuel36791" /></p>
-</div>
+</span>
+
+
+
