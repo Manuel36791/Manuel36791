@@ -46,7 +46,7 @@
 
 <p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&row=2&theme=onestar" alt="manuel36791" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&row=2&column=3&theme=onestar" alt="manuel36791" /></a> </p>
 
 <span> 
 <a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a>  
