@@ -1,6 +1,6 @@
 <p align=”center”>
 <!-- <img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”> -->
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.jpg" width="200" height="200" alt="My Github Banner"/>
+<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/github_banner.png" width="200" height="200" alt="My Github Banner"/>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="40" height="40" />
