@@ -58,4 +58,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&theme=github_dark&locale=en" alt="manuel36791" /></p>
 
-<p align="center"><img src="/metrics-classic.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"></p>
