@@ -46,69 +46,11 @@
 | Project Image | Project Name | Google Play | App Store |
 |---------------|--------------|-------------|-----------|
 | <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.jpg" width="155" height="336" alt="Click Flex Screenshot"/> | **Click Flex** | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/dixy_screenshot.png" width="155" height="336" alt="Dixy's Toys Screenshot"/>
- | **Dixy's Toys** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone) |
-
-<div style="display: flex; justify-content: space-around;">
-    
-<div style="text-align: center; margin: 10px;">
-<h3> Click Flex </h3>
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.jpg" width="155" height="336"/>
-<!-- <a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a> -->
-<a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-</div>
-
-<div style="text-align: center; margin: 10px;">
-<h3> Dixy's Toys </h3>
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/dixy_screenshot.png" width="155" height="336"/>
-<a href="https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-</div>
-
-<div style="text-align: center; margin: 10px;">
-### Tawazaf
-
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/tawazaf_screenshot.png" width="155" height="336"/>
-
-<p><a href="https://play.google.com/store/apps/details?id=com.coddiv.tawazaf&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
-
-<p><a href="https://apps.apple.com/us/app/tawazaf/id6504283365?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-</div>
-
-<div style="text-align: center; margin: 10px;">
-
-### Sawaeid
-
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/sawaeid_screenshot.png" width="155" height="336"/>
-
-<p><a href="https://play.google.com/store/apps/details?id=com.coddiv.sawaed&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
-
-<p><a href="https://apps.apple.com/us/app/sawaeid-om/id6504280235?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-</div>
-
-<div style="text-align: center; margin: 10px;">
-
-### HGE
-
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/hge_screenshot.png" width="155" height="336"/>
-
-<p><a href="https://play.google.com/store/apps/details?id=com.coddiv.hge&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
-
-<!-- <p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
-</div>
-
-<div style="text-align: center; margin: 10px;">
-### Magical Spray
-
-<img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/magical_spray_screenshot.png" width="155" height="336"/>
-
-<!-- <p><a href="https://play.google.com/store/apps/details?id=com.coddiv.hge&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p> -->
-
-<p><a href="https://apps.apple.com/us/app/magical-spray/id6511245539?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-</div>
-
-</div>
-
+| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/dixy_screenshot.png" width="155" height="336" alt="Dixy's Toys Screenshot"/> | **Dixy's Toys** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone) |
+| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/tawazaf_screenshot.png" width="155" height="336" alt="Tawazaf Screenshot"/> | **Tawazaf** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.tawazaf&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tawazaf/id6504283365?platform=iphone) |
+| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/sawaeid_screenshot.png" width="155" height="336" alt="Sawaeid Screenshot"/> | **Sawaeid** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.sawaed&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/sawaeid-om/id6504280235?platform=iphone) |
+| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/hge_screenshot.png" width="155" height="336" alt="HGE Screenshot"/>  | **HGE** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.hge&hl=en) | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) |
+| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/magical_spray_screenshot.png" width="155" height="336" alt="Magical Spray Screenshot"/> | **Magical Spray** | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/magical-spray/id6511245539?platform=iphone) |
 
 
 <span> 
