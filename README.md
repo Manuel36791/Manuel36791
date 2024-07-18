@@ -46,25 +46,17 @@
 <div style="display: flex; justify-content: space-around;">
     
 <div style="text-align: center; margin: 10px;">
-### Click Flex
-
-
+<h3> Click Flex </h3>
 <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.jpg" width="155" height="336"/>
-
-<!-- <p><a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
-
-<p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<!-- <a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a> -->
+<a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 </div>
 
 <div style="text-align: center; margin: 10px;">
-### Dixy's Toys
-
-
+<h3> Dixy's Toys </h3>
 <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/dixy_screenshot.png" width="155" height="336"/>
-
-<p><a href="https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
-
-<p><a href="https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<a href="https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 </div>
 
 <div style="text-align: center; margin: 10px;">
