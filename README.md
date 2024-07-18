@@ -62,6 +62,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&theme=github_dark&locale=en" alt="manuel36791" /></p>
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel36791&show_icons=true&theme=github_dark)
+<!-- ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel36791&show_icons=true&theme=github_dark) -->
 
 <!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
