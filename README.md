@@ -44,23 +44,30 @@
 <h2> Samples from my projects </h2>
 
 <div style="display: flex; justify-content: space-around;">
-
+    
+<div style="text-align: center; margin: 10px;">
 ### Click Flex
+
 
 <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.jpg" width="155" height="336"/>
 
 <!-- <p><a href="https://play.google.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
 
 <p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+</div>
 
+<div style="text-align: center; margin: 10px;">
 ### Dixy's Toys
+
 
 <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/dixy_screenshot.png" width="155" height="336"/>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
 
 <p><a href="https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+</div>
 
+<div style="text-align: center; margin: 10px;">
 ### Tawazaf
 
 <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/tawazaf_screenshot.png" width="155" height="336"/>
@@ -68,6 +75,9 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.coddiv.tawazaf&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
 
 <p><a href="https://apps.apple.com/us/app/tawazaf/id6504283365?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
 
 ### Sawaeid
 
@@ -76,6 +86,9 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.coddiv.sawaed&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
 
 <p><a href="https://apps.apple.com/us/app/sawaeid-om/id6504280235?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
 
 ### HGE
 
@@ -84,7 +97,9 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.coddiv.hge&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p>
 
 <!-- <p><a href="https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
+</div>
 
+<div style="text-align: center; margin: 10px;">
 ### Magical Spray
 
 <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/magical_spray_screenshot.png" width="155" height="336"/>
@@ -92,6 +107,7 @@
 <!-- <p><a href="https://play.google.com/store/apps/details?id=com.coddiv.hge&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get_It_On_Google_Play-0D96F6?style=for-the-badge&logo=google-play&logoColor=white" /></a><p> -->
 
 <p><a href="https://apps.apple.com/us/app/magical-spray/id6511245539?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get_It_On_App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+</div>
 
 </div>
 
