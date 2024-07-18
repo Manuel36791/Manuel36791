@@ -43,6 +43,12 @@
 
 <h2> Samples from my projects </h2>
 
+| Project Image | Project Name | Google Play | App Store |
+|---------------|--------------|-------------|-----------|
+| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.jpg" width="155" height="336" alt="Click Flex Screenshot"/> | **Click Flex** | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone) |
+| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/dixy_screenshot.png" width="155" height="336" alt="Dixy's Toys Screenshot"/>
+ | **Dixy's Toys** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone) |
+
 <div style="display: flex; justify-content: space-around;">
     
 <div style="text-align: center; margin: 10px;">
