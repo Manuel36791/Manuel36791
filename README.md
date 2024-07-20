@@ -59,13 +59,14 @@
 <a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a>  
 </span>
 <span> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&row=2&column=3&theme=onestar" alt="manuel36791" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&theme=onestar" alt="manuel36791" /></a> </p>
 </span>
-[![](https://github-trophies.vercel.app/?username=Manuel36791)](https://github-trophies.vercel.app/?username=Manuel36791)
+
+<!-- [![](https://github-trophies.vercel.app/?username=Manuel36791)](https://github-trophies.vercel.app/?username=Manuel36791) -->
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&theme=github_dark&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="manuel36791" /></p>
 <!-- ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel36791&show_icons=true&theme=github_dark) -->
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel36791&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<!-- ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel36791&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
 
 <!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
