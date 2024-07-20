@@ -70,3 +70,4 @@
 <!-- ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel36791&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
 
 <!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
+![](https://github-trophies.vercel.app/?username=Manuel36791)
