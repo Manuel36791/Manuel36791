@@ -61,6 +61,7 @@
 <span> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&row=2&column=3&theme=onestar" alt="manuel36791" /></a> </p>
 </span>
+[![](https://github-trophies.vercel.app/?username=Manuel36791)](https://github-trophies.vercel.app/?username=Manuel36791)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel36791&show_icons=true&theme=github_dark&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="manuel36791" /></p>
