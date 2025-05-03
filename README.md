@@ -27,11 +27,12 @@
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <br>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,java,kotlin,sqlite,firebase,androidstudio,vscode,git,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,java,kotlin,nodejs,nestjs,sqlite,firebase,androidstudio,vscode,git,postman,neovim&theme=dark" />
   </a>
-</p><br>
+</p>
+<br>
 
 <h2>ℹ️ Project info</h2>
 <div>
