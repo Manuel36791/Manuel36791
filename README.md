@@ -61,6 +61,8 @@
 | <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/marsa_screenshot.png" width="155" height="336" alt="Marsa Screenshot"/>                 | **Marsa** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.marsa) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/marsa/id6738047165) |
 
 
+![Manuel36791 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Manuel36791)
+
 <span> 
 <a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a>  
 </span>
@@ -68,7 +70,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&theme=onestar" alt="manuel36791" /></a> </p>
 </span> -->
 
-![](https://github-trophies.vercel.app/?username=Manuel36791&theme=onestar)
+![Manuel36791 github-trophies](https://github-trophies.vercel.app/?username=Manuel36791&theme=onestar)
+
+<!-- ![Manuel36791 github-trophies](https://stats.dooboo.io/api/github-trophies?login=Manuel36791) -->
 
 <!-- [![](https://github-trophies.vercel.app/?username=Manuel36791)](https://github-trophies.vercel.app/?username=Manuel36791) -->
 
