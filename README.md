@@ -17,12 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:manuelvictor36791@gmail.com">
+<!-- <a href="mailto:manuelvictor36791@gmail.com">
 <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=manuelvictor36791@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://linkedin.com/in/manuelvictor">
+</a> -->
+<a href="mailto:manuelvictor36791@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- <a href="https://linkedin.com/in/manuelvictor">
 <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/manuelvictor&color=0A66C2&style=for-the-badge&logo=linkedin"/>
-</a>
+</a> -->
+<a href="https://linkedin.com/in/manuelvictor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
