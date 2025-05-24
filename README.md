@@ -31,7 +31,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,java,kotlin,nodejs,nestjs,sqlite,firebase,androidstudio,vscode,git,postman,neovim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,java,kotlin,javascript,typescript,nodejs,nestjs,npm,postgres,mongodb,sqlite,firebase,androidstudio,vscode,git,github,githubactions,postman,figma,xd,notion,obsidian,vim,neovim,windows,apple,mac&theme=dark" />
   </a>
 </p>
 <br>
