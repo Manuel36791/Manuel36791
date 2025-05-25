@@ -46,6 +46,8 @@
 
 ![Snake Animation](https://github.com/Manuel36791/Manuel36791/blob/output/github-snake-dark.svg)
 
+![3D GitHub Contribution](./profile-3d-contrib/profile-night-green.svg)
+
 <h2> Samples from my projects </h2>
 
 | Project Image                                                                                                                                                 | Project Name | Google Play | App Store |
