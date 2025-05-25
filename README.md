@@ -65,9 +65,9 @@
 
 ![Manuel36791 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Manuel36791)
 
-<span> 
+<!-- <span> 
 <a href="https://app.daily.dev/manuel36791"><img src="./devcard.png" width="356" alt="Manuel's Dev Card"/></a>  
-</span>
+</span> -->
 <!-- <span> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=manuel36791&theme=onestar" alt="manuel36791" /></a> </p>
 </span> -->
