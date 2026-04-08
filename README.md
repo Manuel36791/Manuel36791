@@ -1,3 +1,4 @@
+
 <!-- GitHub Profile README for Manuel36791 -->
 
 <!-- Header Banner -->
@@ -7,35 +8,177 @@
 
 <!-- Introduction Section -->
 <h1 align="center">
-  Hi 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" /> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="40" height="40" />
 </h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=500&size=34&pause=1000&color=F66C2D&center=true&vCenter=true&width=650&lines=I'm+Manuel;Passionate+Software+Engineer;Flutter+Developer;Tech+Fanatic+%26+Games+Lover;Always+looking+for+new+adventures" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro+Code&size=20&pause=1000&color=f97316&center=true&vCenter=true&width=640&lines=I'm+Manuel;Passionate+Software+Engineer;Flutter+Developer;Tech+Fanatic+%26+Games+Lover;Always+looking+for+new+adventures)](https://git.io/typing-svg)
+
+Results-driven Flutter Developer passionate about building high-performance, cross-platform mobile applications that deliver real value to users and businesses alike.
+
+Location: Cairo, Egypt · Experience: 2+ years in Dart and Flutter · Learning: NestJS
 
 <!-- Contact Section -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:manuelvictor36791@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/manuelvictor">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelvictor/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdYsfZrE2bUwQmMgxbTRLpQ) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelvictor36791@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=Manuel36791&color=f97316&style=for-the-badge)
 
 <!-- Skills Section -->
-<h2 align="left">Languages - Frameworks - Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,java,kotlin,javascript,typescript,nodejs,nestjs,npm,postgres,mongodb,sqlite,firebase,androidstudio,vscode,git,github,githubactions,postman,figma,xd,notion,obsidian,vim,neovim,windows,apple,mac&theme=dark" />
-  </a>
-</p>
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=dart,kotlin,js,ts&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,sqlite,firebase&theme=dark" alt="Backend & Databases"/>
+
+**Tools & IDEs**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,githubactions,postman,figma,xd,docker&theme=dark" alt="Tools & IDEs"/>
+
+<!-- Project Showcase Table -->
+## Apps & Projects
+
+*Real-world apps and side projects.*
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### SPA ERP+
+
+ERP+ All-in-One is your complete mobile ERP solution. Manage HR, CRM, Projects, Accounting, and more — all from one powerful app.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.cloudsoft5.spa&hl=en)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/spa-erp/id6748349455)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Whistle Blowing
+
+In a world where speaking up can be difficult, your voice deserves to be heard—safely and anonymously.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### MyCity Services
+
+MyCity is your all-in-one platform to connect with trusted local service providers quickly and easily. From home maintenance to personal care, MyCity helps you find professionals ready to serve you — all in one place.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.cshell5.mycity&hl=en)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/mycity-services/id6754329109)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Click Flex
+
+A modern mobile experience focused on performance and usability.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/click-flex/id6466738800)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Dixy’s Toys
+
+E-commerce mobile app for browsing and purchasing toys seamlessly.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/dixys-toys/id6504277324)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Tawazaf
+
+A recruitment and job marketplace platform connecting talent with opportunities.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.tawazaf&hl=en)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tawazaf/id6504283365)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Prime - Car Rental
+
+Car rental mobile solution with smooth booking and management features.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.prime)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/prime-car-rental/id6566183857)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 1More
+
+Fitness and workout tracking application designed to push limits.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.one_more_fitness)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Marsa
+
+Travel and booking experience with a focus on simplicity and speed.
+
+![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=Flutter&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.marsa)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/marsa/id6738047165)
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+
+</table>
 
 <!-- Project Info Badges -->
 <h2>ℹ️ Project info</h2>
@@ -55,23 +198,6 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution" />
 </p>
-
-<!-- Project Showcase Table -->
-<h2>📱 Samples from my projects</h2>
-
- | Project Image                                                                                                                                                 | Project Name | Google Play | App Store |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-----------|
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/click_flex_screenshot.jpg" width="155" height="336" alt="Click Flex Screenshot"/>       | **Click Flex** | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/click-flex/id6466738800?platform=iphone) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/dixy_screenshot.png" width="155" height="336" alt="Dixy's Toys Screenshot"/>            | **Dixy's Toys** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.dixystoys&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/dixys-toys/id6504277324?platform=iphone) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/tawazaf_screenshot.png" width="155" height="336" alt="Tawazaf Screenshot"/>             | **Tawazaf** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.tawazaf&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/tawazaf/id6504283365?platform=iphone) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/sawaeid_screenshot.png" width="155" height="336" alt="Sawaeid Screenshot"/>             | **Sawaeid** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.sawaed&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/sawaeid-om/id6504280235?platform=iphone) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/hge_screenshot.png" width="155" height="336" alt="HGE Screenshot"/>                     | **HGE** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.hge&hl=en) | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/magical_spray_screenshot.png" width="155" height="336" alt="Magical Spray Screenshot"/> | **Magical Spray** | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/magical-spray/id6511245539?platform=iphone) | 
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/karbala_screenshot.png" width="155" height="336" alt="Karbala Screenshot"/>             | **Karbala** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.karballa&hl=en) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3%D8%A9/id6742713156) | 
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/prime_screenshot.png" width="155" height="336" alt="Prime Screenshot"/>                 | **Prime - Car Rental** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.prime) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/prime-car-rental/id6566183857) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/1more_screenshot.png" width="155" height="336" alt="1More Screenshot"/>                 | **1More** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.one_more_fitness) | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) | 
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/raghwa_screenshot.png" width="155" height="336" alt="Raghwa Screenshot"/>               | **Raghwa** | [![Not Available](https://img.shields.io/badge/Not%20Available-lightgrey?style=for-the-badge)](#) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/raghwa/id6741438537) |
-| <img src="https://github.com/Manuel36791/Manuel36791/blob/main/assets/marsa_screenshot.png" width="155" height="336" alt="Marsa Screenshot"/>                 | **Marsa** | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.coddiv.marsa) | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ae/app/marsa/id6738047165) |
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
